@@ -1,0 +1,100 @@
+Peg o' My Heart,Angil Roseveare,Fiction,0.4
+Scorpio,Nelson Berford,Thriller,2.9
+That's Entertainment,Bartel Addams,Thriller,0.6
+Manderlay,Cicely Scottesmoor,Comedy,3.2
+Dreamgirls,Rafe Van Ross,Science Fiction,0.9
+A Trip There,Tedmund Duddy,Mystery,0.7
+Burn Hollywood Burn,Jaquith Babcock,Adventure,2.2
+Shanghai Triad (Yao a yao yao dao waipo qiao),Leanna Tremayle,Horror,1.5
+Orchestra Wives,Augustina Roiz,Fiction,4.0
+La Californie, Marmaduke Bourtoumieux,Thriller,0.9
+Cool It,Tani Wiltshaw,Fiction,1.9
+Chunhyang,Der Eatherton,Comedy,2.6
+Beowulf,Emmery Langland,Mystery,3.7
+Luna de Avellaneda,Ronny Johncey,Fiction,1.1
+When Father Was Away on Business,Lorine Pabelik,Romance,0.0
+Cast A Deadly Spell,Kalie Eusden,Mystery,2.8
+Tango,Wilmer Quigg,Science Fiction,0.7
+The Change-Up,Etty Le feuvre,Adventure,2.4
+Hidden Agenda,Ruthe Larcher,Fiction,4.1
+Noise,Mathian Brisland,Comedy,3.6
+Comradeship (Kameradschaft),Twila Allabarton,Horror,0.7
+Trancers III,Beatriz Caesmans,Adventure,4.9
+Major League: Back to the Minors,Zebedee Campelli,Science Fiction,3.7
+Seven Psychopaths,Tiebold Devericks,Adventure,4.3
+Predator,Cully Snape,Comedy,1.7
+An American Dream,Idelle Meade,Adventure,2.4
+Tactical Force,Harlan Lorait,Thriller,4.2
+Odd Girl Out,Imogen Oulet,Fantasy,3.6
+Young Again,Carena Chrippes,Mystery,4.6
+The Diary of a Chambermaid,Robert Doogood,Fantasy,4.3
+Tortilla Soup,Alfy Mulleary,Mystery,1.1
+The Set-Up,Mavis Moulsdale,Science Fiction,4.4
+Werckmeister Harmonies,Nadya Drover,Horror,2.8
+Godspeed,Waring Coulsen,Fantasy,3.7
+Dreamchild,Kelcey Vinau,Adventure,4.4
+Odette Toulemonde,Daloris Kleinber,Horror,0.7
+Caesar and Cleopatra,Doti Fellis,Comedy,0.3
+Tomorrow,Giovanni Jerdan,Comedy,3.5
+Young and Innocent,Rustie O'Brogan,Horror,4.7
+Wagons East,Benjie Trevain,Comedy,1.2
+Aftermath,Annabell Persey,Mystery,3.7
+The Boys: The Sherman Brothers' Story,Althea Mateev,Fiction,0.4
+Gloria,Quentin Loftie,Fiction,0.9
+Pitfall,Isak Petasch,Thriller,0.3
+The Book of Stars,Horst Dmitrichenko,Fiction,0.5
+The River,Stearne Bourdel,Horror,0.2
+La Symphonie pastorale,Jeffy Horbart,Horror,4.6
+Balkan Spy (Balkanski spijun),Rodolphe Marshallsay,Comedy,3.5
+Flying Home,Estel Baison,Horror,4.5
+Serious Moonlight,Trixi Clemmen,Mystery,1.6
+AM1200,Leo Hairsnape,Thriller,1.9
+247°F ,Juli Cocks,Adventure,1.5
+Immortal Sergeant,Jae Garriock,Mystery,0.6
+What Doesn't Kill You,Hervey Paddy,Science Fiction,1.1
+Life as a House,Adaline Hyland,Comedy,0.3
+The UFO Incident,Mauricio McAnulty,Adventure,3.4
+To get her,Tommie Venart,Mystery,0.3
+A Smile Like Yours,Goldy Bendon,Mystery,3.1
+Darling,Dominic Brafferton,Science Fiction,3.1
+Independence Day,Jervis Jiles,Fantasy,4.2
+Guest House Paradiso,Ringo Robins,Thriller,1.7
+Frozen Assets,Wyndham Walne,Science Fiction,0.8
+Ed Wood,Lauree Picot,Fiction,4.1
+Skyjacked,Benny Gascar,Fiction,4.3
+A Dirty Carnival,Chad Rought,Mystery,2.8
+The New Country,Jesse Haughan,Mystery,1.5
+Voyage to the Beginning of the World (Viagem ao Princípio do Mundo),Abigale Smeaton,Mystery,3.1
+Visiting Hours,Starla Brazenor,Mystery,3.3
+The Blue Dahlia,Peyton Polak,Thriller,3.2
+Revenge of the Electric Car,Berenice Geaves,Comedy,2.9
+Kiss Me Goodbye,Bruno Varne,Romance,0.3
+Blind Sunflowers,Sibel Tomovic,Science Fiction,2.6
+Daybreak,Ranna Greer,Romance,4.9
+Darkness,Ingaberg Portigall,Horror,4.8
+The Secret of Dr. Kildare,Sunny Halton,Fantasy,3.5
+Het Vonnis,Parke Giron,Adventure,0.1
+Latitude Zero (Ido zero daisakusen),Eve Poat,Adventure,4.5
+Destroyer,Ingaborg Birtwisle,Thriller,3.5
+The Endless Summer,Selinda Dincke,Fantasy,3.7
+American Drug War: The Last White Hope,Gail Pucker,Fiction,4.0
+Princess (Prinsessa),Terry Stennine,Science Fiction,0.9
+The Last King of Scotland,Amye Goodwin,Mystery,3.9
+George Harrison: Living in the Material World,Franni Gerriet,Fantasy,1.1
+The Affairs of Martha,Morgan Coggins,Horror,0.0
+Yes Indeed,Eadmund Dovermann,Romance,1.1
+Forsaking All Others,Whittaker Vettore,Thriller,3.3
+Star Wars: Episode IV - A New Hope,Elmore Marl,Fiction,2.0
+The Duchess,Thaddus Halburton,Mystery,3.8
+The Vicious Kind,Libby Bonnar,Thriller,2.0
+The Phantom Carriage,Ceil Fruish,Romance,4.5
+An Unlikely Weapon,Patric Berge,Fantasy,2.9
+Feiern,Bradney Twelve,Comedy,2.9
+Coming Apart,Jessa Skirvin,Science Fiction,1.8
+Nashville,Niko Barents,Adventure,1.3
+Me & Isaac Newton,Liva Grumble,Fiction,0.9
+The Bachelor and the Bobby-Soxer,Olly Enterlein,Adventure,0.7
+One Crazy Summer,Broddy Blasi,Comedy,3.7
+At Any Second,Berton Perrygo,Thriller,1.1
+Operation Pacific,Zachary Piolli,Horror,2.0
+The Phantom,Rey Dymoke,Science Fiction,2.7
