@@ -68,7 +68,7 @@ public class phase2codeWithGUI {
     public static void main(String[] args) {
         List<Book> books = new ArrayList<>();
         try {
-            books = readBooksFromFile("C:Book Sample.txt");
+            books = readBooksFromFile("C:\\Book Sample.txt");
     
             final List<Book> finalBooks = books; // Declare books as final
     
